@@ -15,3 +15,7 @@ I would like to be shown a list of bookmarks
 6. Connect to the test database using the pqsl command \c bookmark_manager_test;
 
 7. Run the query we have saved in the file 01_create_bookmarks_table.sql
+
+8. Connect to the database using the pqsl command \c bookmark_manager;
+
+9. Run the query we have saved in the file 02_add_title_to_bookmarks.sql
